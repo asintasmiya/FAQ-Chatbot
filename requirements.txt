@@ -1,0 +1,3 @@
+# requirements.txt
+# No external dependencies required for the basic FAQ Chatbot.
+# If you add features (like a web interface), list them here.
